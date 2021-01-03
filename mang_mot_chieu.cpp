@@ -168,7 +168,7 @@ int main() {
     nhapVaoMangMotChieu(a, n);  // các tham số cần truyền là mảng a, và số phần tử n.
     
     // thực hiện gọi hàm in ra mảng 1 chiều.
-    ỉnRaMangMotChieu(a, n);     // các tham số cần truyền là mảng a và số phần tử n.
+    inRaMangMotChieu(a, n);     // các tham số cần truyền là mảng a và số phần tử n.
     
     // Tuỳ từng yêu cầu của đề bài, sẽ sử dụng các thao tác sắp xếp và in ra mảng thích hợp
     
