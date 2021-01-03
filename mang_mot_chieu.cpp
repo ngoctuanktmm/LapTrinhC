@@ -153,7 +153,7 @@ int main() {
     
     /*
      Có thể sử dụng n để khai báo số lượng phần tử của mảng trong C,
-     ngoài ra cũng có thể quan sát đề bài, với những bài cho số lượng phần tử
+     ngoài ra cũng có thể quan sát đề bài, với những bài cho trước số lượng phần tử
      của mảng (VD: n<30) thì cứ mạnh dạn định nghĩa #define MAX_SIZE 35.
      Số 35 ở đây là 30+5, bản chất của việc này làm cho chúng ta thao tác không tràn mảng
      
