@@ -132,7 +132,7 @@ void sapXepChen(int a[], int n){
     
 }
 
-void ỉnRaMangMotChieu(int a[], int n){
+void inRaMangMotChieu(int a[], int n){
     /* Hàm này có 2 tham số hình thức
     -  int a[]: cho ta biết cần in ra mảng nào.
     -  int n: cho biết số lượng phần tử của mảng cần in
