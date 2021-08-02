@@ -47,7 +47,7 @@ void push(int du){
     }
 }
 
-char pop(){
+int pop(){
     if(!isEmpty()){
         int ret = stack[top].data;
         top--;
